@@ -19,40 +19,40 @@
 
 #### Medium
 
-| S.N                         | Questions                                                                                                                                                                                                       | Solutions                   |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 10.                         | Write a program that asks the user to enter a number and prints "Positive Even" if the number is positive and even, "Positive Odd" if the number is positive and odd, and "Negative" if the number is negative. |
-| [Link](easy/solution_10.py) |
-| 11.                         | Write a program that asks the user to enter their age and prints "Child" if they are less than 13, "Teen" if they are between 13 and 19, and "Adult" if they are 20 or older.                                   |
-| [Link](easy/solution_11.py) |
-| 12.                         | Write a program that asks the user to enter a score and prints "A" for 90 and above, "B" for 80 to 89, "C" for 70 to 79, "D" for 60 to 69, and "F" for below 60.                                                | [Link](easy/solution_12.py) |
-| 13.                         | Write a program that asks the user to enter a day of the week and prints "Weekend" if it's Saturday or Sunday, otherwise prints "Weekday".                                                                      |
-| [Link](easy/solution_13.py) |
-| 14.                         | Write a program that asks the user to enter a traffic light color (red, yellow, green) and prints "Stop" for red, "Slow down" for yellow, and "Go" for green.                                                   |
-| [Link](easy/solution_14.py) |
-| 15.                         | Write a program that asks the user to enter a month and prints the number of days in that month.                                                                                                                |
-| [Link](easy/solution_15.py) |
-| 16.                         | Write a program that prints the numbers from 1 to 10.                                                                                                                                                           |
-| [Link](easy/solution_16.py) |
-| 17.                         | Write a program that prints the squares of numbers from 1 to 10.                                                                                                                                                |
-| [Link](easy/solution_17.py) |
-| 18.                         | Write a program that asks the user to enter a word and then prints each character of the word on a new line.                                                                                                    | [Link](easy/solution_18.py) |
+| S.N                           | Questions                                                                                                                                                                                                       | Solutions                     |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| 10.                           | Write a program that asks the user to enter a number and prints "Positive Even" if the number is positive and even, "Positive Odd" if the number is positive and odd, and "Negative" if the number is negative. |
+| [Link](medium/solution_10.py) |
+| 11.                           | Write a program that asks the user to enter their age and prints "Child" if they are less than 13, "Teen" if they are between 13 and 19, and "Adult" if they are 20 or older.                                   |
+| [Link](medium/solution_11.py) |
+| 12.                           | Write a program that asks the user to enter a score and prints "A" for 90 and above, "B" for 80 to 89, "C" for 70 to 79, "D" for 60 to 69, and "F" for below 60.                                                | [Link](medium/solution_12.py) |
+| 13.                           | Write a program that asks the user to enter a day of the week and prints "Weekend" if it's Saturday or Sunday, otherwise prints "Weekday".                                                                      |
+| [Link](medium/solution_13.py) |
+| 14.                           | Write a program that asks the user to enter a traffic light color (red, yellow, green) and prints "Stop" for red, "Slow down" for yellow, and "Go" for green.                                                   |
+| [Link](medium/solution_14.py) |
+| 15.                           | Write a program that asks the user to enter a month and prints the number of days in that month.                                                                                                                |
+| [Link](medium/solution_15.py) |
+| 16.                           | Write a program that prints the numbers from 1 to 10.                                                                                                                                                           |
+| [Link](medium/solution_16.py) |
+| 17.                           | Write a program that prints the squares of numbers from 1 to 10.                                                                                                                                                |
+| [Link](medium/solution_17.py) |
+| 18.                           | Write a program that asks the user to enter a word and then prints each character of the word on a new line.                                                                                                    | [Link](easy/solution_18.py)   |
 
 #### Hard
 
 | S.N                         | Questions                                                                                                                                                                                                  | Solutions                   |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 19.                         | Write a program that prints the numbers from 1 to 100, but stops if a number is divisible by 17.                                                                                                           | [Link](easy/solution_19.py) |
+| 19.                         | Write a program that prints the numbers from 1 to 100, but stops if a number is divisible by 17.                                                                                                           | [Link](hard/solution_19.py) |
 | 20.                         | Write a program that asks the user to guess a number between 1 and 10, and keeps asking until they guess correctly.                                                                                        |
-| [Link](easy/solution_20.py) |
-| 21.                         | Write a program that asks the user to enter numbers until they enter a negative number, then prints the sum of all the numbers entered.                                                                    | [Link](easy/solution_21.py) |
-| 22.                         | Write a program that asks the user to enter a year and prints whether it's a leap year. A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.                                  | [Link](easy/solution_22.py) |
+| [Link](hard/solution_20.py) |
+| 21.                         | Write a program that asks the user to enter numbers until they enter a negative number, then prints the sum of all the numbers entered.                                                                    | [Link](hard/solution_21.py) |
+| 22.                         | Write a program that asks the user to enter a year and prints whether it's a leap year. A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.                                  | [Link](hard/solution_22.py) |
 | 23.                         | Write a program that asks the user to enter three numbers and prints the largest number.                                                                                                                   |
-| [Link](easy/solution_23.py) |
-| 24.                         | Write a program that asks the user to enter a password and checks if it meets the following criteria: at least 8 characters, contains at least one uppercase letter, one lowercase letter, and one number. | [Link](easy/solution_24.py) |
+| [Link](hard/solution_23.py) |
+| 24.                         | Write a program that asks the user to enter a password and checks if it meets the following criteria: at least 8 characters, contains at least one uppercase letter, one lowercase letter, and one number. | [Link](hard/solution_24.py) |
 | 25.                         | Write a program that prints the first 10 Fibonacci numbers.                                                                                                                                                |
-| [Link](easy/solution_25.py) |
+| [Link](hard/solution_25.py) |
 | 26.                         | Write a program that asks the user to enter a word and then prints the word in reverse.                                                                                                                    |
-| [Link](easy/solution_26.py) |
+| [Link](hard/solution_26.py) |
 | 27.                         | Write a program that prints all prime numbers between 1 and 100.                                                                                                                                           |
-| [Link](easy/solution_27.py) |
+| [Link](hard/solution_27.py) |
