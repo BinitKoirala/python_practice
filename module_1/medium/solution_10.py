@@ -1,0 +1,1 @@
+# Write a program that asks the user to enter a number and prints "Positive Even" if the number is positive and even, "Positive Odd" if the number is positive and odd, and "Negative" if the number is negative.
